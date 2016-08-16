@@ -1,0 +1,27 @@
+#profile-banner{
+	margin-top:50px;
+	height:130px;
+}
+
+body{
+	background-color:black;
+	color:white;
+}
+
+#portrait{
+	height:50px;
+}
+
+.animate-show.ng-hide-add, .animate-show.ng-hide-remove {
+  transition: all linear 0.5s;
+}
+
+.animate-show.ng-hide {
+  line-height: 0;
+  opacity: 0;
+  padding: 0 10px;
+}
+
+#btnmastery{
+margin-top: 50px;
+}
